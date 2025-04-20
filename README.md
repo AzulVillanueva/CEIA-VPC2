@@ -9,7 +9,6 @@ Este repositorio contiene el desarrollo del trabajo práctico final de la materi
   - Carga y preprocesamiento del dataset.
   - Entrenamiento de una CNN desde cero.
   - Aplicación de técnicas de Data Augmentation.
-  - Experimentación con distintos Learning Rates.
   - Fine-tuning parcial y completo de una **ResNet50** preentrenada.
   - Evaluación de métricas y visualización de resultados.
   - Ajuste de hiperparámetros mediante Optuna.
